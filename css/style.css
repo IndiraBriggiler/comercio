@@ -1,0 +1,43 @@
+.main-contain{
+    display: inline-block;
+    margin: 10px;
+    float: left;
+    width: 82%;
+    text-align: center;
+
+}
+.img-contain{
+    display: inline-block;
+    width: 33%;
+    }
+.img-contain div img{
+    width: 100%;
+}
+aside{
+    display: inline-block;
+    float: left; 
+    width: 15%;
+}
+header{
+    text-align: center;
+}
+header img{
+    width: 100%;
+}
+body{
+    margin: 0px;
+}
+.img-contain div{
+    text-align: center;
+    margin: 10px;
+}
+p{
+    text-align: center;
+    font-family: fantasy;
+}
+span{
+    font-family: fantasy;
+}
+label{
+    font-family: cursive;
+}
