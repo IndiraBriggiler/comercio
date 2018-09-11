@@ -2,14 +2,14 @@
     display: inline-block;
     margin: 10px;
     float: left;
-    width: 82%;
+    width: 80%;
     text-align: center;
-
 }
 .img-contain{
     display: inline-block;
-    width: 33%;
-    }
+    width: 30%;
+    margin: 5px;
+}
 .img-contain div img{
     width: 100%;
 }
@@ -17,6 +17,7 @@ aside{
     display: inline-block;
     float: left; 
     width: 15%;
+    margin-left: 15px;
 }
 header{
     text-align: center;
@@ -29,15 +30,31 @@ body{
 }
 .img-contain div{
     text-align: center;
-    margin: 10px;
 }
 p{
     text-align: center;
     font-family: fantasy;
+    font-size: 30px;
+    line-height: 25px;
+    color: salmon;
 }
 span{
     font-family: fantasy;
+    font-size: 20px;
 }
 label{
-    font-family: cursive;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: palevioletred;
+    font-weight: bold;
+    margin-left: 15px;
+    line-height: 35px;
+    display: block;
+}
+.texto{
+    background-color: tomato;
+    margin-bottom: 10px;
+}
+aside div{
+    margin-bottom: 60px;
 }
